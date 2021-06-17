@@ -1,0 +1,19 @@
+<!-- Use to embed anything else: { { embed some_url [height] }} or { { embed url=some_url height=some_number }} -->
+<script>
+    function resizeIframe(obj) {
+      obj.style.height =  1.05*obj.contentWindow.document.body.scrollHeight + 'px';
+    }
+</script>
+
+<iframe name="iframe" width="100%"
+    {{ if .IsNamedParams }}
+    height="{{ with .Get "height"}}{{.}}{{else}}{{500}}{{end}}"
+    src="{{ .Get "url" }}"
+    {{ else }}
+    height="{{ with .Get 1 }}{{.}}{{else}}{{500}}{{end}}"
+    src="{{ .Get 0 }}"
+    {{ end }}
+    frameborder="0"
+    scrolling="no"
+    onload="resizeIframe(this)">
+</iframe>

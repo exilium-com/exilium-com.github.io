@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : Do get in touch.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "San Francisco, California"
+
+    # - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    #   info : "Phone: +880-31-000-000"
+
+    # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #   info : "Fax: +880-31-000-000"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "email: info@exilium.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

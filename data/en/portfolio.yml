@@ -1,0 +1,20 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Projects
+  portfolio_item :
+    # portfolio item loop
+    - name : Zeep
+      image : images/portfolio/zeep.png
+      # image_webp : images/portfolio/portfolio-1.webp
+      # categories : ["games"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "zeep"
+
+    # portfolio item loop
+    - name : Secret
+      image : images/portfolio/lock.jpg
+      # image_webp : images/portfolio/portfolio-2.webp
+      # categories : ["games"]
+      content : Secret stuff
+      link : "#"

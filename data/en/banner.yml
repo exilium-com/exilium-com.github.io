@@ -1,0 +1,16 @@
+############################### Banner ################################
+banner:
+  enable : true
+  # bg_image_webp : "images/backgrounds/Ipanema.webp"
+  bg_image : images/backgrounds/beachsand2.jpg
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "exilium"
+  content : "solving problems through software"
+  button:
+    enable : true
+    label : "What we do"
+    link : "#portfolio"
+  logo:
+    enable : true
+    image : images/logos/ExiliumLogo512.png
+    height : 128

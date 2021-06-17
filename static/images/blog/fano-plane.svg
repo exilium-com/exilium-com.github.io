@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="441px" height="371px" viewBox="-0.5 -0.5 441 371" content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-05-24T04:46:35.324Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36&quot; etag=&quot;iHXdO7XYHztD6JLJebx-&quot; version=&quot;14.6.13&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;W0kOGGRTglgX5OJs_uff&quot; name=&quot;Page-1&quot;&gt;7Zldb5swFIZ/TS5XGRsDuWw+1knVpkqdtPbSBSegEoyM25D9+hlsiCFJxxry0aU3Fec1HNvnPLZP3AEaL/IbTtLwOwtoPIAgyAdoMoAQu7b8WwgrJTgAK2HOo0BJ1lq4j35TLQKtvkQBzRovCsZiEaVN0WdJQn3R0AjnbNl8bcbiZq8pmdMN4d4n8ab6KwpEqFQPg7X+jUbzsOrZArplQaqXtZCFJGBLQ0LTARpzxoR6WuRjGhexq+Kivvu6o7UeGKeJ6PLBLf6Rs2c0eczQjcimtyC7zr+4yssriV/0hPVgxaqKgPQigy2N0TKMBL1PiV+0LGW6pRaKRSwtSz6SLFUZmEU5lZ2OZlEcj1nMuNQSlhQuMsHZcx1JGYORHgDlguY7Z2bV8ZKcUbaggq/kK/oDBNwrTZWmDGFtL9c5kzAqLTTyVYtEczKvva9DKR90NP8hshbsENokuC4YXcfHCKcZvQFEM0AQIHUIjZbRxAWSuqKFcNFyuCvgNNjgvhVuOVL2wn361hx18GS/cyreeNHZnj8jO9WCMpNTaZzGRESvzfFuS5ju4Y5FciY1Hna1JDUcuFqRlQs1T/2VuYLajnDTke22HKk4bDgq+amn/X6kvD2JonkkHornKwCG2n6UNrjCSJuTYqqgMlaGcUd5JCdAudZaeAaEejN/G56O79Gn2aFRRKckTJ5qTcK89xIGm47qAR6JsOG+hCWy/weFlEKsEBRjjtyTtbCmrLRWpvU3zjD1AnsbZx58Qo5zFM467HjwnHY8x+5px8PD4/JoWf0eohRbtj4q24coBMBoORA9J6WiTl51fFkfdJeynH6p6FRancGeosqtkx1ysKdDDsM2h60a/ND4oJ43FeR7OyDZAGoMx7B8t0d8TkuF20wmau8FH2ZTsfekwqh9bICbtQ+2YQ+1D7Vk9eNuw2rouIgcvPaBHfcp+5RA/je/9jqUPllI0vIuhqzSchgSgGcq/FDzk6nrtAKMsp3y6avMeqaJLbVyMng0wJPtNzacSi/kqeyy8MmZIMKwU4NZnxZ9GBSPsoSkP5mKkepUz2qf+552iiHStkGYvYWwdhXc211Ph6ueC02V016NzolT1eHsv9BUwXNLVYcD+UJThVqpQsPN6+6jpgp/pqrjWXXyVdXht/OFpgqf26qyPpdV12VVF+v950qa63/SquJ+/Z9uNP0D&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <ellipse cx="220" cy="237.5" rx="112.5" ry="112.5" fill="none" stroke="#000000" stroke-width="2" pointer-events="all"/>
+        <path d="M 220 240 L 320 185" fill="none" stroke="#bd7000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 20 350 L 220 20" fill="none" stroke="#6c8ebf" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 20 350 L 420 350" fill="none" stroke="#82b366" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 420 350 L 220 20" fill="none" stroke="#b20000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 20 350 L 220 240" fill="none" stroke="#bd7000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 220 350 L 220 20" fill="none" stroke="#c2c200" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 420 350 L 120 185" fill="none" stroke="#9673a6" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="220" cy="20" rx="3" ry="3" fill="#000000" stroke="none" pointer-events="all"/>
+        <rect x="200" y="0" width="40" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <ellipse cx="420" cy="350" rx="3" ry="3" fill="#000000" stroke="none" pointer-events="all"/>
+        <rect x="400" y="330" width="40" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <ellipse cx="20" cy="350" rx="3" ry="3" fill="#000000" stroke="none" pointer-events="all"/>
+        <rect x="0" y="330" width="40" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <ellipse cx="120" cy="185" rx="3" ry="3" fill="#000000" stroke="none" pointer-events="all"/>
+        <rect x="100" y="165" width="40" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <ellipse cx="220" cy="350" rx="3" ry="3" fill="#000000" stroke="none" pointer-events="all"/>
+        <rect x="200" y="330" width="40" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <ellipse cx="320" cy="185" rx="3" ry="3" fill="#000000" stroke="none" pointer-events="all"/>
+        <rect x="300" y="165" width="40" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <ellipse cx="220" cy="240" rx="3" ry="3" fill="#000000" stroke="none" pointer-events="all"/>
+        <rect x="200" y="220" width="40" height="40" fill="none" stroke="none" pointer-events="all"/>
+    </g>
+</svg>
