@@ -62,10 +62,10 @@ name = "projects"
 url = "#portfolio"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "team"
+# url = "#team"
+# weight = 4
 
 # [[Languages.en.menu.main]]
 # name = "pricing"
@@ -107,25 +107,25 @@ url = "/privacy"
 weight = 4
 
 ################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
+# [[Languages.fr.menu.main]]
+# name = "sur"
+# url = "#about"
+# weight = 1
 
 # [[Languages.fr.menu.main]]
 # name = "un service"
 # url = "#services"
 # weight = 2
 
-# [[Languages.fr.menu.main]]
-# name = "portefeuille"
-# url = "#portfolio"
-# weight = 3
-
 [[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
+name = "portefeuille"
+url = "#portfolio"
+weight = 3
+
+# [[Languages.fr.menu.main]]
+# name = "équipe"
+# url = "#team"
+# weight = 4
 
 # [[Languages.fr.menu.main]]
 # name = "tarification"
