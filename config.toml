@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://exilium-com.github.io"
+baseURL = "https://www.exilium.com"
 title = "exilium"
 theme = "meghna-hugo"
 # themesDir = "../.."
