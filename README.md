@@ -1,4 +1,7 @@
 [![github pages](https://github.com/exilium-com/exilium-com.github.io/actions/workflows/main.yml/badge.svg)](https://github.com/exilium-com/exilium-com.github.io/actions/workflows/main.yml)
+
+> ***DO NOT make this site private, transfer or disable it*** without carefully orchestrating with domain registrar. [Make sure you read this](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages#updating-custom-domains-when-your-github-pages-site-is-disabled).
+
 # Notes
 
 Now using [Hugo](https://gohugo.io) to build web site.
@@ -35,9 +38,13 @@ Add a picture for the project in static/images/portfolio/my-project-image.jpg an
 Note that projects highlighted in the home page are duplicative of this, those are managed in data/en/portfolio.yml
 for English and similarly for other languages.
 
+# Dev Notes
+
+## Run local server
+
+`hugo serve --bind=leblon --baseURL=http://leblon:1313`
 # Credits
 
 Many photos on this site originated from <a href="https://unsplash.com/collections/65666478/keys%2C-locks%2C-and-chains?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>, thanks to various contributors:
 - Photo by <a href="https://unsplash.com/@jdent?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jason Dent</a>
 
-test

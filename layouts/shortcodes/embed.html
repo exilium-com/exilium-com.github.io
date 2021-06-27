@@ -1,10 +1,12 @@
-<!-- Use to embed anything else: { { embed some_url [height] }} or { { embed url=some_url height=some_number }} -->
+<!-- Use to embed anything else: { { embed some_url [height] }} or { { embed url=some_url height=some_number title=some_caption }} -->
 <script>
     function resizeIframe(obj) {
       obj.style.height =  1.05*obj.contentWindow.document.body.scrollHeight + 'px';
     }
 </script>
 
+<br>
+<figure>
 <iframe name="iframe" width="100%"
     {{ if .IsNamedParams }}
     height="{{ with .Get "height"}}{{.}}{{else}}{{500}}{{end}}"
@@ -17,3 +19,8 @@
     scrolling="no"
     onload="resizeIframe(this)">
 </iframe>
+{{ if .IsNamedParams }}
+<figcaption>{{ .Get "title" }}</figcaption>
+{{ end }}
+</figure>
+<br>
