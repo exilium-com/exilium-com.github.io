@@ -1,0 +1,15 @@
+{
+    "versions": [
+       {
+          "version":1000,
+          "binary_file": "rollback2.bin",
+          "binary_url": "https://onedrive.live.com/download?cid=DED17898070D20F7&resid=DED17898070D20F7%21241900&authkey=ALPFkKPW_3W-ff0",
+          "spiffs": [
+              {
+                  "spiffs_file": "1.html",
+                  "spiffs_url": "https://1.html"
+              }
+          ]
+       }
+      ]
+  }

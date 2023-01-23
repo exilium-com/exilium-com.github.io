@@ -1,0 +1,24 @@
+{
+  "versions": [
+     {
+        "version":5,
+        "binary_file": "version5.bin",
+        "binary_url": "version5url"
+     },
+     {
+        "version":1,
+        "binary_file": "version1.bin",
+        "binary_url": "version1url"
+     },
+     {
+        "version":3,
+        "binary_file": "version3.bin",
+        "binary_url": "version3url"
+     },
+     {
+        "version":2,
+        "binary_file": "version2.bin",
+        "binary_url": "version2url"
+     }
+    ]
+}
