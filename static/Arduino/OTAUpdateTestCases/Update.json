@@ -2,8 +2,8 @@
   "versions": [
      {
         "version":1000,
-        "binary_file": "rollback2.bin",
-        "binary_url": "https://www.exilium.com/Arduino/OTAUpdateTestCases/rollback2.bin"
+        "binfile": "rollback2.bin",
+        "urlpath": "https://www.exilium.com/Arduino/OTAUpdateTestCases/"
      }
     ]
 }

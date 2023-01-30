@@ -2,8 +2,8 @@
   "versions": [
      {
         "version":1000,
-        "binary_file": "version1000.bin",
-        "binary_url": "https://www.exilium.com/Arduino/OTAUpdateTestCases/version1000.bin"
+        "binfile": "version1000.bin",
+        "urlpath": "https://www.exilium.com/Arduino/OTAUpdateTestCases/"
      }
     ]
 }
