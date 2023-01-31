@@ -3,7 +3,15 @@
      {
         "version":1000,
         "binfile": "rollback2.bin",
-        "urlpath": "https://www.exilium.com/Arduino/OTAUpdateTestCases/"
-     }
+        "urlpath": "https://www.exilium.com/Arduino/OTAUpdateTestCases/",
+        "spiffs": [
+            {
+                "file": "1.html",
+            },
+            {
+                "file": "2.html"
+            }
+         ]
+       }
     ]
 }
