@@ -1,57 +1,57 @@
 {
   "versions": [
      {
-        "version":5,
-        "binfile": "version5.bin",
-        "urlpath": "version5url"
+        "version":1,
+        "binfile": "version1.bin",
+        "urlpath": "version1url",
         "spiffs": [
             {
-                "file": "5/1.html",
+                "file": "11.html"
             },
             {
-                "file": "5/2.html",
+                "file": "12.html"
             }
         ]
      },
      {
-        "version":1,
-        "binfile": "version1.bin",
-        "urlpath": "version1url"
+        "version":5,
+        "binfile": "version5.bin",
+        "urlpath": "version5url",
         "spiffs": [
             {
-                "file": "11.html",
+                "file": "5/1.html"
             },
             {
-                "file": "12.html",
+                "file": "5/2.html"
             }
         ]
      },
      {
         "version":3,
         "binfile": "version3.bin",
-        "urlpath": "version3url"
+        "urlpath": "version3url",
         "spiffs": [
             {
-                "file": "3/1.html",
+                "file": "3/1.html"
             },
             {
-                "file": "3/2.html",
+                "file": "3/2.html"
             }
         ]
      },
      {
         "version":2,
         "binfile": "version2.bin",
-        "urlpath": "version2url"
+        "urlpath": "version2url",
         "spiffs": [
             {
-                "file": "2/1.html",
+                "file": "2/1.html"
             },
             {
-                "file": "2/2.html",
+                "file": "2/2.html"
             },
             {
-                "file": "2/3.html",
+                "file": "2/3.html"
             }
         ]
      }
