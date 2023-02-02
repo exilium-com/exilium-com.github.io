@@ -2,58 +2,27 @@
   "versions": [
      {
         "version":1,
-        "binfile": "version1.bin",
+        "sketchbin": "version1.bin",
         "urlpath": "version1url",
-        "spiffs": [
-            {
-                "file": "11.html"
-            },
-            {
-                "file": "12.html"
-            }
-        ]
+        "spiffbin": "spiffs1_2_html",
      },
      {
         "version":5,
-        "binfile": "version5.bin",
+        "sketchbin": "version5.bin",
         "urlpath": "version5url",
-        "spiffs": [
-            {
-                "file": "5/1.html"
-            },
-            {
-                "file": "5/2.html"
-            }
-        ]
+        "spiffbin": "spiffs1_2_html",
      },
      {
         "version":3,
-        "binfile": "version3.bin",
+        "sketchbin": "version3.bin",
         "urlpath": "version3url",
-        "spiffs": [
-            {
-                "file": "3/1.html"
-            },
-            {
-                "file": "3/2.html"
-            }
-        ]
+        "spiffbin": "spiffs1_2_html",
      },
      {
         "version":2,
-        "binfile": "version2.bin",
+        "sketchbin": "version2.bin",
         "urlpath": "version2url",
-        "spiffs": [
-            {
-                "file": "2/1.html"
-            },
-            {
-                "file": "2/2.html"
-            },
-            {
-                "file": "2/3.html"
-            }
-        ]
+        "spiffbin": "spiffs1_2_html",
      }
     ]
 }
