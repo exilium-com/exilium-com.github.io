@@ -2,13 +2,9 @@
     "versions": [
        {
           "version": 1000,
-          "binfile": "version1000.bin",
+          "sketchbin": "version1000.bin",
           "urlpath": "https://www.exilium.com/Arduino/OTAUpdateTestCases/",
-          "spiffs": [
-              {
-                  "file": "1.html",
-              }
-          ]
+          "spiffbin": "spiffs1_2_html",
        }
       ]
   }

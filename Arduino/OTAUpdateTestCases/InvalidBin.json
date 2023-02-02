@@ -2,7 +2,7 @@
   "versions": [
      {
         "version":1000,
-        "binfile": "InvalidBin.bin",
+        "sketchbin": "InvalidBin.bin",
         "urlpath": "https://www.exilium.com/Arduino/OTAUpdateTestCases/"
      }
     ]
