@@ -4,25 +4,25 @@
         "version":1,
         "sketchbin": "version1.bin",
         "urlpath": "version1url",
-        "spiffbin": "spiffs1_2html.bin"
+        "spiffbin": "spiffs_1_2html.bin"
      },
      {
         "version":5,
         "sketchbin": "version5.bin",
         "urlpath": "version5url",
-        "spiffbin": "spiffs1_2html.bin"
+        "spiffbin": "spiffs_1_2html.bin"
      },
      {
         "version":3,
         "sketchbin": "version3.bin",
         "urlpath": "version3url",
-        "spiffbin": "spiffs1_2html.bin"
+        "spiffbin": "spiffs_1_2html.bin"
      },
      {
         "version":2,
         "sketchbin": "version2.bin",
         "urlpath": "version2url",
-        "spiffbin": "spiffs1_2html.bin"
+        "spiffbin": "spiffs_1_2html.bin"
      }
     ]
 }
