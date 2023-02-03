@@ -4,7 +4,7 @@
         "version":1000,
         "urlpath": "https://www.exilium.com/Arduino/OTAUpdateTestCases/",
         "sketchbin": "rollback2.bin",
-        "spiffbin": "spiffs1_2_html.bin"
+        "spiffbin": "spiffs1_2html.bin"
        }
     ]
 }
